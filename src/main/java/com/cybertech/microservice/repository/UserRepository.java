@@ -1,6 +1,6 @@
-package com.example.microservice.repository;
+package com.cybertech.microservice.repository;
 
-import com.example.microservice.model.User;
+import com.cybertech.microservice.model.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

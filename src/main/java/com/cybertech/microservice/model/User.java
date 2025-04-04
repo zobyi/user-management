@@ -1,4 +1,4 @@
-package com.example.microservice.model;
+package com.cybertech.microservice.model;
 
 import javax.persistence.*;
 
